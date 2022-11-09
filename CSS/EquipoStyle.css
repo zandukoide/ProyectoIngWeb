@@ -1,0 +1,41 @@
+span{
+    font-size:x-large;
+    font-weight: bold;
+    margin-left: 100px;
+    padding-top: 20px;
+}
+
+
+.contenedor-equipo a{
+    text-decoration: none;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.contenedor-equipo a:hover{
+    background-color: #f2eee3;
+    transition: 0.3s;
+}
+
+.contenedor-equipo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.contenedor-equipo span{
+    font-size: medium;
+    align-self: center;
+    margin: 0px;
+    padding-top: 10px;
+}
+
+img{
+    width: 120px;
+    height: 70px;
+}
