@@ -1,0 +1,28 @@
+.contenedor-general-equipos{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.contenedor-equipo-favorito{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.separador-bandera-partidos{
+    height:40px;
+    width:0.5px;
+    border-width:0;
+    color:#000;
+    background-color:#000;
+}
+
+.separador-partidos-eliminar{
+    height:40px;
+    width:0.5px;
+    border-width:0;
+    color:#000;
+    background-color:#000;
+}

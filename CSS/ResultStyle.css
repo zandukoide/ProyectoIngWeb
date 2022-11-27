@@ -1,0 +1,74 @@
+.contenedor-titulo-menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.contenedor-resultados-general{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.resultado-1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.resultado-2{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.resultado-3{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.resultado-4{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.resultado-1 hr{
+    height:40px;
+    width:0.5px;
+    border-width:0;
+    color:#000;
+    background-color:#000;
+}
+
+.resultado-2 hr{
+    height:40px;
+    width:0.5px;
+    border-width:0;
+    color:#000;
+    background-color:#000;
+}
+
+.resultado-3 hr{
+    height:40px;
+    width:0.5px;
+    border-width:0;
+    color:#000;
+    background-color:#000;
+}
+
+.resultado-4 hr{
+    height:40px;
+    width:0.5px;
+    border-width:0;
+    color:#000;
+    background-color:#000;
+}
+
+.seccion-a div{
+    margin-top: 20px;
+}
+
+.seccion-b{
+    display: flex;
+    align-items: center;
+}

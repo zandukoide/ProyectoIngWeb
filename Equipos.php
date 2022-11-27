@@ -17,10 +17,10 @@
                     <a href=""><img src="IMGs\qatar2022.png" alt=""></a>
                 </div>
                 <ul class="menu">
-                    <li><a href="C:\xampp\htdocs\ProySemestralWeb\Home.php">Inicio</a></li>
-                    <li><a href="#equipos" class="seleccion">Equipos</a></li>
+                    <li><a href="Home.php">Inicio</a></li>
+                    <li><a href="Equipos.php" class="seleccion">Equipos</a></li>
                     <li><a href="#partidos">Partidos</a></li>
-                    <li><a href="#resultados">Resultados</a></li>
+                    <li><a href="Resultados.php">Resultados</a></li>
                     <li><a href="#clasificacion">Clasificación</a></li>
                     <li><a href="#favoritos">Favoritos</a></li>
                 </ul>
