@@ -48,59 +48,59 @@
                 <th>Grupo A</th>
             </tr>
             <tr class="fila-encabezado">
-                <td>Equipo</td>
-                <td>PJ</td>
-                <td>G</td>
-                <td>E</td>
-                <td>P</td>
-                <td>GF</td>
-                <td>GC</td>
-                <td>DG</td>
-                <td>Pts</td>
+                <td class="columna-equipo">Equipo</td>
+                <td class="columna-numeros">PJ</td>
+                <td class="columna-numeros">G</td>
+                <td class="columna-numeros">E</td>
+                <td class="columna-numeros">P</td>
+                <td class="columna-numeros">GF</td>
+                <td class="columna-numeros">GC</td>
+                <td class="columna-numeros">DG</td>
+                <td class="columna-numeros">Pts</td>
             </tr>
             <tr class="fila-normal">
-                <td>Países Bajos</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Países Bajos</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Senegal</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Senegal</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Ecuador</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Ecuador</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Catar</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Catar</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
         </table>
     </div>
@@ -110,59 +110,59 @@
                 <th>Grupo B</th>
             </tr>
             <tr class="fila-encabezado">
-                <td>Equipo</td>
-                <td>PJ</td>
-                <td>G</td>
-                <td>E</td>
-                <td>P</td>
-                <td>GF</td>
-                <td>GC</td>
-                <td>DG</td>
-                <td>Pts</td>
+                <td class="columna-equipo">Equipo</td>
+                <td class="columna-numeros">PJ</td>
+                <td class="columna-numeros">G</td>
+                <td class="columna-numeros">E</td>
+                <td class="columna-numeros">P</td>
+                <td class="columna-numeros">GF</td>
+                <td class="columna-numeros">GC</td>
+                <td class="columna-numeros">DG</td>
+                <td class="columna-numeros">Pts</td>
             </tr>
             <tr class="fila-normal">
-                <td>Inglaterra</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Inglaterra</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Estados Unidos</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Estados Unidos</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Irán</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Irán</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Gales</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Gales</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
         </table>
     </div>
@@ -172,59 +172,59 @@
                 <th>Grupo C</th>
             </tr>
             <tr class="fila-encabezado">
-                <td>Equipo</td>
-                <td>PJ</td>
-                <td>G</td>
-                <td>E</td>
-                <td>P</td>
-                <td>GF</td>
-                <td>GC</td>
-                <td>DG</td>
-                <td>Pts</td>
+                <td class="columna-equipo">Equipo</td>
+                <td class="columna-numeros">PJ</td>
+                <td class="columna-numeros">G</td>
+                <td class="columna-numeros">E</td>
+                <td class="columna-numeros">P</td>
+                <td class="columna-numeros">GF</td>
+                <td class="columna-numeros">GC</td>
+                <td class="columna-numeros">DG</td>
+                <td class="columna-numeros">Pts</td>
             </tr>
             <tr class="fila-normal">
-                <td>Polonia</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Polonia</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Argentina</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Argentina</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Arabia Saudita</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Arabia Saudita</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>México</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">México</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
         </table>
     </div>
@@ -234,59 +234,59 @@
                 <th>Grupo D</th>
             </tr>
             <tr class="fila-encabezado">
-                <td>Equipo</td>
-                <td>PJ</td>
-                <td>G</td>
-                <td>E</td>
-                <td>P</td>
-                <td>GF</td>
-                <td>GC</td>
-                <td>DG</td>
-                <td>Pts</td>
+                <td class="columna-equipo">Equipo</td>
+                <td class="columna-numeros">PJ</td>
+                <td class="columna-numeros">G</td>
+                <td class="columna-numeros">E</td>
+                <td class="columna-numeros">P</td>
+                <td class="columna-numeros">GF</td>
+                <td class="columna-numeros">GC</td>
+                <td class="columna-numeros">DG</td>
+                <td class="columna-numeros">Pts</td>
             </tr>
             <tr class="fila-normal">
-                <td>Francia</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Francia</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Australia</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Australia</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Túnez</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Túnez</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Dinamarca</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Dinamarca</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
         </table>
     </div>
@@ -296,59 +296,59 @@
                 <th>Grupo E</th>
             </tr>
             <tr class="fila-encabezado">
-                <td>Equipo</td>
-                <td>PJ</td>
-                <td>G</td>
-                <td>E</td>
-                <td>P</td>
-                <td>GF</td>
-                <td>GC</td>
-                <td>DG</td>
-                <td>Pts</td>
+                <td class="columna-equipo">Equipo</td>
+                <td class="columna-numeros">PJ</td>
+                <td class="columna-numeros">G</td>
+                <td class="columna-numeros">E</td>
+                <td class="columna-numeros">P</td>
+                <td class="columna-numeros">GF</td>
+                <td class="columna-numeros">GC</td>
+                <td class="columna-numeros">DG</td>
+                <td class="columna-numeros">Pts</td>
             </tr>
             <tr class="fila-normal">
-                <td>España</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">España</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Japón</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Japón</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Costa Rica</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Costa Rica</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Alemania</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Alemania</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
         </table>
     </div>
@@ -358,59 +358,59 @@
                 <th>Grupo F</th>
             </tr>
             <tr class="fila-encabezado">
-                <td>Equipo</td>
-                <td>PJ</td>
-                <td>G</td>
-                <td>E</td>
-                <td>P</td>
-                <td>GF</td>
-                <td>GC</td>
-                <td>DG</td>
-                <td>Pts</td>
+                <td class="columna-equipo">Equipo</td>
+                <td class="columna-numeros">PJ</td>
+                <td class="columna-numeros">G</td>
+                <td class="columna-numeros">E</td>
+                <td class="columna-numeros">P</td>
+                <td class="columna-numeros">GF</td>
+                <td class="columna-numeros">GC</td>
+                <td class="columna-numeros">DG</td>
+                <td class="columna-numeros">Pts</td>
             </tr>
             <tr class="fila-normal">
-                <td>Croacia</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Croacia</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Marruecos</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Marruecos</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Bélgica</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Bélgica</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Canadá</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Canadá</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
         </table>
     </div>
@@ -420,59 +420,59 @@
                 <th>Grupo G</th>
             </tr>
             <tr class="fila-encabezado">
-                <td>Equipo</td>
-                <td>PJ</td>
-                <td>G</td>
-                <td>E</td>
-                <td>P</td>
-                <td>GF</td>
-                <td>GC</td>
-                <td>DG</td>
-                <td>Pts</td>
+                <td class="columna-equipo">Equipo</td>
+                <td class="columna-numeros">PJ</td>
+                <td class="columna-numeros">G</td>
+                <td class="columna-numeros">E</td>
+                <td class="columna-numeros">P</td>
+                <td class="columna-numeros">GF</td>
+                <td class="columna-numeros">GC</td>
+                <td class="columna-numeros">DG</td>
+                <td class="columna-numeros">Pts</td>
             </tr>
             <tr class="fila-normal">
-                <td>Brasil</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Brasil</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Suiza</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Suiza</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Camerún</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Camerún</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Serbia</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Serbia</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
         </table>
     </div>
@@ -482,59 +482,59 @@
                 <th>Grupo H</th>
             </tr>
             <tr class="fila-encabezado">
-                <td>Equipo</td>
-                <td>PJ</td>
-                <td>G</td>
-                <td>E</td>
-                <td>P</td>
-                <td>GF</td>
-                <td>GC</td>
-                <td>DG</td>
-                <td>Pts</td>
+                <td class="columna-equipo">Equipo</td>
+                <td class="columna-numeros">PJ</td>
+                <td class="columna-numeros">G</td>
+                <td class="columna-numeros">E</td>
+                <td class="columna-numeros">P</td>
+                <td class="columna-numeros">GF</td>
+                <td class="columna-numeros">GC</td>
+                <td class="columna-numeros">DG</td>
+                <td class="columna-numeros">Pts</td>
             </tr>
             <tr class="fila-normal">
-                <td>Portugal</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Portugal</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Ghana</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Ghana</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Corea del Sur</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Corea del Sur</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
             <tr class="fila-normal">
-                <td>Uruguay</td>
-                <td>3</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td class="columna-equipo">Uruguay</td>
+                <td class="columna-numeros">3</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
+                <td class="columna-numeros">0</td>
             </tr>
         </table>
     </div>
