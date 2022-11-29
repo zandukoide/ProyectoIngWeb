@@ -1,0 +1,132 @@
+.contenedor-titulo-contacto{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+.texto-contacto{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.texto-sugerencia{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    color: rgb(108, 108, 108);
+}
+
+.contenedor-titulo-contacto span{
+    margin-bottom: 40px;
+    margin-left: 30px;
+}
+
+.contenedor-mensaje-contacto{
+    margin-left: 30px;
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.contenedor-botones{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
+.contenedor-botones button{
+    width: 180px;
+    height: 40px;
+    margin-bottom: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: white;
+    border-radius: 15px;
+    border: solid 0.5px black;
+}
+
+.contenedor-botones button:hover{
+    width: 180px;
+    height: 40px;
+    margin-bottom: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color:#8d1c3d;
+    border-radius: 15px;
+    border: none;
+    color: white;
+    transition: 0.3s;
+}
+
+.mensaje-envio-sugerencia{
+    margin-bottom: 50px;
+}
+
+.mensaje-envio-sugerencia span{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.contenedor-soporte-general{
+    display: flex;
+    flex-direction: row;
+    background-color: #f2eee3;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.contenedor-titulo-soporte{
+    padding-left: 60px;
+}
+
+.contenedor-titulo-soporte span{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: rgb(108, 108, 108);
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.contenedor-parrafo-soporte{
+    padding-left: 60px;
+    width: 860px;
+}
+
+.contenedor-parrafo-soporte span{
+    font-weight: bold;
+}
+
+.contenedor-direccion-general{
+    display: flex;
+    flex-direction: row;
+    background-color: #8d1c3d;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.contenedor-titulo-direccion{
+    padding-left: 60px;
+}
+
+.contenedor-titulo-direccion span{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.contenedor-parrafo-direccion{
+    padding-left: 123px;
+    width: 860px;
+    display: flex;
+    flex-direction: column;
+}
+
+.contenedor-parrafo-direccion span{
+    color: white;
+}
+
+.contenedor-parrafo-direccion .texto-direccion{
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}

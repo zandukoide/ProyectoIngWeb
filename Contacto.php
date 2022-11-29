@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <link href="CSS/HomeStyle.css" rel="stylesheet" type="text/css" />
-    <link href="CSS/FavStyle.css" rel="stylesheet" type="text/css" />
+    <link href="CSS/ContactoStyle.css" rel="stylesheet" type="text/css" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Fifa World Cup 2022</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -20,12 +20,12 @@
                     <a href=""><img src="IMGs\qatar2022.png" alt=""></a>
                 </div>
                 <ul class="menu">
-                    <li><a href="Home.php">Inicio</a></li>
+                    <li><a href="Home.php" class="seleccion">Inicio</a></li>
                     <li><a href="Equipos.php">Equipos</a></li>
                     <li><a href="Posiciones.php">Posiciones</a></li>
                     <li><a href="Resultados.php">Resultados</a></li>
                     <li><a href="#clasificacion">Clasificación</a></li>
-                    <li><a href="Favoritos.php" class="seleccion">Favoritos</a></li>
+                    <li><a href="Favoritos.php">Favoritos</a></li>
                 </ul>
                 <div class="contenedor-usuario">
                     <div class="contenedor-registrarse">
@@ -39,40 +39,43 @@
             </div>
         </nav>
     </header>
-    <div class="contenedor-texto-favoritos">
-        <span>Favoritos</span>
+    <div class="contenedor-titulo-contacto">
+        <span class="texto-contacto">Contacto</span>
+        <span class="texto-sugerencia">Envíanos tus sugerencias:</span>
     </div>
-    <div class="contenedor-general-equipos">
-        <div class="contenedor-equipo-favorito">
-            <div class="contenedor-bandera-nombre">
-                <img src="" alt="">
-                <span>País</span>
-            </div>
-            <hr class="separador-bandera-partidos">
-            <div class="contenedor-partidos-equipo-fav">
-                <div class="partido-independiente">
-                    <span>País X</span>
-                    <span>Marcador1</span>
-                    <span>Marcador2</span>
-                    <span>País A</span>
-                </div>
-                <div class="partido-independiente">
-                    <span>País X</span>
-                    <span>Marcador1</span>
-                    <span>Marcador2</span>
-                    <span>País B</span>
-                </div>
-                <div class="partido-independiente">
-                    <span>País X</span>
-                    <span>Marcador1</span>
-                    <span>Marcador2</span>
-                    <span>País C</span>
-                </div>
-            </div>
-            <hr class="separador-partidos-eliminar">
-            <div class="contenedor-boton-eliminar">
-                <a href=""><button>Eliminar</button></a>
-            </div>
+    <div class="contenedor-mensaje-contacto">
+        <textarea id="area-texto" name="" rows="10" cols="150"></textarea>
+        <div class="mensaje-envio-sugerencia" id="contenedor-mensaje-fantasma">
+          <span>¡Listo! Gracias por ayudarnos a mejorar</span>
+        </div>
+        <div class="contenedor-botones">
+          <button id="envio" onclick="envio()">Enviar</button>
+          <a href="Home.php"><button>Volver al inicio</button></a>
+        </div>
+    </div>
+    <div class="contenedor-soporte-general">
+        <div class="contenedor-titulo-soporte">
+            <span>Preguntas de soporte</span>
+        </div>
+        <div class="contenedor-parrafo-soporte">
+            <span>En caso de tener dudas adicionales referentes con el equipo de soporte,
+                 otra sugerencia o algún inconveniente que se haya presentado, envíanos un
+                 correo electrónico a: wayoyo@utp.ac.pa
+            </span>
+        </div>
+    </div>
+    <div class="contenedor-direccion-general">
+        <div class="contenedor-titulo-direccion">
+            <span>Contactar con</span>
+        </div>
+        <div class="contenedor-parrafo-direccion">
+            <span class="texto-direccion">Dirección</span>
+            <span>Universidad Tecnológica de Panamá,<br>
+                Campus Victor Levi Sasso,<br>
+                Avenida Ricardo J. Alfaro,<br>
+                Ciudad de Panamá,<br>
+                Panamá
+            </span>
         </div>
     </div>
     <footer class="footer">
@@ -102,7 +105,7 @@
 
         <ul class="nav__ul">
           <li>
-            <a href="Nosotros.php">Sobre Nosotros</a>
+            <a href="#">Sobre Nosotros</a>
           </li>
         </ul>
       </li>
@@ -112,11 +115,12 @@
 
         <ul class="nav__ul">
           <li>
-            <a href="Contacto.php">Contacto</a>
+            <a href="#">Contacto</a>
           </li>
         </ul>
       </li>
     </ul>
     </footer>
+    <script src="JS\ContactoJS.js" charset="utf-8"></script>
 </body>
 </html>

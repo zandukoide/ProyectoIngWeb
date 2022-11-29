@@ -22,7 +22,7 @@
                 <ul class="menu">
                     <li><a href="Home.php">Inicio</a></li>
                     <li><a href="Equipos.php">Equipos</a></li>
-                    <li><a href="#partidos">Partidos</a></li>
+                    <li><a href="Posiciones.php">Posiciones</a></li>
                     <li><a href="Resultados.php" class="seleccion">Resultados</a></li>
                     <li><a href="#clasificacion">Clasificación</a></li>
                     <li><a href="Favoritos.php">Favoritos</a></li>
@@ -77,8 +77,8 @@
         <div class="contenedor-resultados-partidos">
             <div class="resultado-1" id="primer-contenedor">
                 <div class="seccion-a">
-                    <span>País X</span><br>
-                    <span>País Y</span>
+                    <span class="texto-paisx">País X</span><span>1</span><br>
+                    <span class="texto-paisy">País Y</span><span>2</span>
                     <div>
                         <span>Estadio: </span>
                         <span>Esto cambia también</span>
@@ -86,13 +86,13 @@
                 </div>
                 <hr>
                 <div class="seccion-b">
-                    <span>La hora también cambia</span>
+                    <span>5:00 AM</span>
                 </div>
             </div>
             <div class="resultado-2" id="segundo-contenedor">
                 <div class="seccion-a">
-                    <span>País X</span><br>
-                    <span>País Y</span>
+                    <span class="texto-paisx">País X</span><span>1</span><br>
+                    <span class="texto-paisy">País Y</span><span>2</span>
                     <div>
                         <span>Estadio: </span>
                         <span>Esto cambia también</span>
@@ -100,13 +100,13 @@
                 </div>
                 <hr>
                 <div class="seccion-b">
-                    <span>La hora también cambia</span>
+                    <span>5:00 AM</span>
                 </div>
             </div>
             <div class="resultado-3" id="tercer-contenedor">
                 <div class="seccion-a">
-                    <span>País X</span><br>
-                    <span>País Y</span>
+                    <span class="texto-paisx">País X</span><span>1</span><br>
+                    <span class="texto-paisy">País Y</span><span>2</span>
                     <div>
                         <span>Estadio: </span>
                         <span>Esto cambia también</span>
@@ -114,13 +114,13 @@
                 </div>
                 <hr>
                 <div class="seccion-b">
-                    <span>La hora también cambia</span>
+                    <span>5:00 AM</span>
                 </div>
             </div>
             <div class="resultado-4" id="cuarto-contenedor">
                 <div class="seccion-a">
-                    <span>País X</span><br>
-                    <span>País Y</span>
+                    <span class="texto-paisx">País X</span><span>1</span><br>
+                    <span class="texto-paisy">País Y</span><span>2</span>
                     <div>
                         <span>Estadio: </span>
                         <span>Esto cambia también</span>
@@ -128,97 +128,54 @@
                 </div>
                 <hr>
                 <div class="seccion-b">
-                    <span>La hora también cambia</span>
+                    <span>5:00 AM</span>
                 </div>
             </div>
         </div>
     </div>
     <footer class="footer">
     <div class="footer__addr">
-      <h1 class="footer__logo">Your Logo</h1>
+      <img class="footer__logo" src="https://www.pngplay.com/wp-content/uploads/10/FIFA-Logo-Transparent-Images.png" alt="">
 
-      <h2>Contact</h2>
+      <h2>Dirección</h2>
 
       <address>
-        Your address, 123 Avenue, Country<br>
-
-        <a class="footer__btn" href="mailto:example@gmail.com">Email Us</a>
+        Universidad Tec. de Panamá, Panamá, Panamá
       </address>
     </div>
 
     <ul class="footer__nav">
       <li class="nav__item">
-        <h2 class="nav__title">Rewards</h2>
+        <h2 class="nav__title">Cuenta</h2>
 
         <ul class="nav__ul">
           <li>
-            <a href="#">Join Now</a>
-          </li>
-
-          <li>
-            <a href="#">Learn More</a>
-          </li>
-
-          <li>
-            <a href="#">Manage Account</a>
+            <a href="#">Administrar Cuenta</a>
           </li>
         </ul>
       </li>
 
       <li class="nav__item">
-        <h2 class="nav__title">News & Info</h2>
+        <h2 class="nav__title">Explorar</h2>
 
         <ul class="nav__ul">
           <li>
-            <a href="#">Press Releases</a>
-          </li>
-
-          <li>
-            <a href="#">About Our Products</a>
-          </li>
-
-          <li>
-            <a href="#">Product Support</a>
-          </li>
-
-          <li>
-            <a href="#">Product Manuals</a>
-          </li>
-
-          <li>
-            <a href="#">Product Registration</a>
-          </li>
-
-          <li>
-            <a href="#">Newsletter Sign Up</a>
+            <a href="Nosotros.php">Sobre Nosotros</a>
           </li>
         </ul>
       </li>
 
       <li class="nav__item">
-        <h2 class="nav__title">Support</h2>
+        <h2 class="nav__title">Apoyo</h2>
 
         <ul class="nav__ul">
           <li>
-            <a href="#">FAQ</a>
-          </li>
-
-          <li>
-            <a href="#">Help Desk</a>
-          </li>
-
-          <li>
-            <a href="#">Forums</a>
+            <a href="Contacto.php">Contacto</a>
           </li>
         </ul>
       </li>
     </ul>
-
-    <div class="legal">
-      <p>&copy; 2022 Copyright.</p>
-
-    </div>
     </footer>
     <script src="JS\ResultadoJS.js" charset="utf-8"></script>
-</body>
+    </body>
 </html>
