@@ -1,3 +1,15 @@
+.contenedor-texto-favoritos{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.contenedor-texto-favoritos span{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 27px;
+    font-weight: bold;
+    color: #3e3e3e;
+}
+
 .contenedor-general-equipos{
     display: flex;
     flex-direction: column;
@@ -7,22 +19,75 @@
 
 .contenedor-equipo-favorito{
     display: flex;
-    justify-content: space-around;
     align-items: center;
+    border: solid 1px #3e3e3e;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    width: 585px;
+}
+
+.contenedor-bandera-nombre{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px;
+}
+
+.contenedor-bandera-nombre img{
+    width: 60px;
+}
+
+.contenedor-bandera-nombre span{
+    font-weight: bold;
+    color: #3e3e3e;
+    font-size: 16px;
+    margin-top: 10px;
 }
 
 .separador-bandera-partidos{
-    height:40px;
+    height:50px;
     width:0.5px;
     border-width:0;
     color:#000;
     background-color:#000;
+    margin: 0px;
+}
+
+.contenedor-partidos-equipo-fav{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.partido-independiente span{
+    font-size: 13px;
+    font-weight: bold;
+    color: black;
 }
 
 .separador-partidos-eliminar{
-    height:40px;
+    height:50px;
     width:0.5px;
     border-width:0;
     color:#000;
     background-color:#000;
+    margin: 0px;
+}
+
+.contenedor-boton-eliminar{
+    margin-left: 47px;
+}
+
+.contenedor-boton-eliminar button{
+    width: 100px;
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    height: 35px;
+    border: none;
+    font-size:14px;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
 }

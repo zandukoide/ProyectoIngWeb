@@ -43,37 +43,40 @@
         <span>Favoritos</span>
     </div>
     <div class="contenedor-general-equipos">
-        <div class="contenedor-equipo-favorito">
-            <div class="contenedor-bandera-nombre">
-                <img src="" alt="">
-                <span>País</span>
-            </div>
-            <hr class="separador-bandera-partidos">
-            <div class="contenedor-partidos-equipo-fav">
-                <div class="partido-independiente">
-                    <span>País X</span>
-                    <span>Marcador1</span>
-                    <span>Marcador2</span>
-                    <span>País A</span>
-                </div>
-                <div class="partido-independiente">
-                    <span>País X</span>
-                    <span>Marcador1</span>
-                    <span>Marcador2</span>
-                    <span>País B</span>
-                </div>
-                <div class="partido-independiente">
-                    <span>País X</span>
-                    <span>Marcador1</span>
-                    <span>Marcador2</span>
-                    <span>País C</span>
-                </div>
-            </div>
-            <hr class="separador-partidos-eliminar">
-            <div class="contenedor-boton-eliminar">
-                <a href=""><button>Eliminar</button></a>
-            </div>
-        </div>
+      <div class="contenedor-equipo-favorito">
+          <div class="contenedor-bandera-nombre">
+              <img src="IMGs\banderaespaña.webp" alt="">
+              <span>España</span>
+          </div>
+          <hr class="separador-bandera-partidos">
+          <div class="contenedor-partidos-equipo-fav">
+              <div class="partido-independiente">
+                  <span>España</span>
+                  <span>7</span>
+                  <span>-</span>
+                  <span>0</span>
+                  <span>Costa Rica</span>
+              </div>
+              <div class="partido-independiente">
+                  <span>España</span>
+                  <span>2</span>
+                  <span>-</span>
+                  <span>2</span>
+                  <span>Alemania</span>
+              </div>
+              <div class="partido-independiente">
+                  <span>España</span>
+                  <span>0</span>
+                  <span>-</span>
+                  <span>0</span>
+                  <span>Japón</span>
+              </div>
+          </div>
+          <hr class="separador-partidos-eliminar">
+          <div class="contenedor-boton-eliminar">
+              <a href=""><button>Eliminar</button></a>
+          </div>
+      </div>
     </div>
     <footer class="footer">
     <div class="footer__addr">
