@@ -81,6 +81,16 @@ body{
     padding-right: 13px;
 }
 
+.contenedor-registrarse a:hover{
+  font-weight: bold;
+  color: #8d1c3d;
+}
+
+.contenedor-iniciarsesion a:hover{
+  font-weight: bold;
+  color: #8d1c3d;
+}
+
 .registrarse{
     text-decoration: none;
     color: #8d1c3d;

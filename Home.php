@@ -38,7 +38,7 @@
             </div>
         </nav>
     </header>
-    <a href="">
+    <a href="https://www.directvsports.com/noticia/los-estadios-que-seran-sedes-en-el-mundial-de-qatar">
       <div class="contenedor-noticias-estadios">
         <div class="noticias-estadios">
           <p>Explora los magníficos estadios diseñados por varios de los más aclamados arquitectos
