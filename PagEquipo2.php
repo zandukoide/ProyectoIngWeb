@@ -42,11 +42,11 @@
     <div class="contenedor-nombre-favorito">
       <div  class="contenedor-bandera-nombre">
         <div class="imagen">
-          <img src="IMGs\banderaespaña.webp" alt="">
+          <img src="IMGs\banderaecuador.jpg" alt="">
         </div>
         <div class="equipo-grupo">
-          <span id="pais">España</span>
-          <span id="grupo">Grupo E</span>
+          <span id="pais">Ecuador</span>
+          <span id="grupo">Grupo A</span>
         </div>
       </div>
       <div class="contenedor-boton-favorito">
@@ -64,11 +64,11 @@
           <span>Datos</span>
         </div>
         <div class="partidos-general">
-          <span>2</span>
+          <span>3</span>
           <span class="partidito">Partidos Jugados</span>
           <span>1</span>
           <span class="partidito">Partidos Ganados</span>
-          <span>0</span>
+          <span>1</span>
           <span class="partidito">Partidos Perdidos</span>
           <span>1</span>
           <span class="partidito">Partidos Empatados</span>
@@ -78,7 +78,7 @@
         <div class="tarjeta-amarilla">
           <div class="imagen-numero">
             <div class="tarjetita-amarilla"></div>
-            <span>1</span>
+            <span>3</span>
           </div>
           <div class="texto">
             <span>Tarjetas amarillas</span>
@@ -99,7 +99,7 @@
           </div>
           <div class="texto">
             <span>Máx. gol:</span>
-            <span>Morata</span>
+            <span>Valencia</span>
           </div>
         </div>
       </div>
@@ -111,18 +111,18 @@
           <span id="posicion">Porteros</span>
           <div class="portero-individual">
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/501a7b8c-121a-450a-8da1-04768e3b239c/1442546780?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Sanchez</span>
+              <img src="https://digitalhub.fifa.com/transform/fd6dd52d-7dac-4c1c-91cf-647674ffcc3d/1442153514?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">H. Galindez</span>
               <span id="posicion-2">Portero</span>
             </div>
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/99bac8dc-3541-42aa-9ee7-c2062dab21c5/1442550384?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Raya</span>
+              <img src="https://digitalhub.fifa.com/transform/45effb51-3759-4443-86c4-1adda359aaa8/1442153543?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">M. Ramirez</span>
               <span id="posicion-2">Portero</span>
             </div>
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/3996caf6-8de6-4cc9-b320-43269c6a8b68/1442550448?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Simon</span>
+              <img src="https://digitalhub.fifa.com/transform/51c7eafe-59db-4234-a9d6-04bc8081d32b/1442153558?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">A. Dominguez</span>
               <span id="posicion-2">Portero</span>
             </div>
           </div>
@@ -131,43 +131,48 @@
           <span id="posicion">Defensas</span>
           <div class="defensa-individual">
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/2a40ece5-6fa5-423e-81e4-b8f404480d7c/1442552014?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Azpilicueta</span>
+              <img src="https://digitalhub.fifa.com/transform/c2158847-1ebb-4af1-a676-739485cdb191/1442157061?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">F. Torres</span>
               <span id="posicion-2">Defensa</span>
             </div>
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/765d6a9d-4f5d-42af-a187-6fceb77f7076/1442550812?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">García</span>
+              <img src="https://digitalhub.fifa.com/transform/d1dcc9c6-75a0-47ce-b9f8-f28a71a76ad1/1442153769?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">P. Hincapie</span>
               <span id="posicion-2">Defensa</span>
             </div>
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/8f710499-fba6-4d2e-b512-e0c1c242379e/1442551864?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Torres</span>
+              <img src="https://digitalhub.fifa.com/transform/15266fa6-2c23-48ff-9a63-36d068c3fe58/1442157021?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">R. Arboleda</span>
               <span id="posicion-2">Defensa</span>
             </div>
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/7214e635-be61-40c0-9a18-9432b2e8bfdf/447862?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Balde</span>
+              <img src="https://digitalhub.fifa.com/transform/91932a10-5782-4307-874e-597f62ec9385/1442158666?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">W. Pacho</span>
               <span id="posicion-2">Defensa</span>
             </div>
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/e35f29a4-1613-4259-9671-af391c2329a2/1442550948?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Guillamon</span>
+              <img src="https://digitalhub.fifa.com/transform/990f62e0-0ac5-41ef-a43c-cc4354e63f27/1442158380?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">P. Estupiñán</span>
               <span id="posicion-2">Defensa</span>
             </div>
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/bef08b26-042b-4a7c-a517-f29e1c937c39/1442550649?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Alba</span>
+              <img src="https://digitalhub.fifa.com/transform/eb538dd3-559b-494d-9e61-26ae40627351/1442157377?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">X. Arreaga</span>
               <span id="posicion-2">Defensa</span>
             </div>
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/e4f534e2-d24e-4d69-aae7-970fe7bcbf54/1442550925?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Carvajal</span>
+              <img src="https://digitalhub.fifa.com/transform/c0ab58e9-0b9c-4f71-9bf4-1e82d77f67e9/1442158606?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">A. Preciado</span>
               <span id="posicion-2">Defensa</span>
             </div>
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/2b44baf6-3e19-42b0-b982-427f88c56334/1442551021?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Laporte</span>
+              <img src="https://digitalhub.fifa.com/transform/5c914ef0-1413-434c-b2f0-d686f2d8c6ba/1442157042?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">D. Palacios</span>
+              <span id="posicion-2">Defensa</span>
+            </div>
+            <div class="jugador">
+              <img src="https://digitalhub.fifa.com/transform/a7aaa188-ac74-4109-9fc4-68c87db5e861/1442157465?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">J. Porozo</span>
               <span id="posicion-2">Defensa</span>
             </div>
           </div>
@@ -176,38 +181,48 @@
           <span id="posicion">Mediocampistas</span>
           <div class="mediocampista-individual">
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/2dec5173-d2fd-4a06-8715-398332b2cc44/1442551723?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Busquets</span>
+              <img src="https://digitalhub.fifa.com/transform/961c1a40-a931-4e14-b057-1e8382aa4e5a/1442157398?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">J. Cifuentes</span>
               <span id="posicion-2">Mediocamp.</span>
             </div>
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/bc994cd1-cfcd-4de7-ad0b-182b16a6ebd5/1442551339?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Llorente</span>
+              <img src="https://digitalhub.fifa.com/transform/48f6672a-4213-4ba2-8d1a-c29525f49291/1442153578?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">C. Gruezo</span>
               <span id="posicion-2">Mediocamp.</span>
             </div>
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/87132c4b-85cb-4eeb-add2-06ea6489d9ec/1442552127?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Koke</span>
+              <img src="https://digitalhub.fifa.com/transform/e3fd1b6f-923a-4b98-b3ea-791a8e88fca7/1442153978?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">E. Preciado</span>
               <span id="posicion-2">Mediocamp.</span>
             </div>
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/3accf767-b78f-4bf4-87f8-25ab808366c4/1442551912?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Gavi</span>
+              <img src="https://digitalhub.fifa.com/transform/59ffee8e-f7db-4304-86ea-ce51fbd17552/1442157555?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">R. Ibarra</span>
               <span id="posicion-2">Mediocamp.</span>
             </div>
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/5e614c86-4c65-4d3a-b211-7ca38710187c/1442551426?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Rodri</span>
+              <img src="https://digitalhub.fifa.com/transform/85a2f7b4-8153-4c04-89e4-46c8555bb5bb/1442153920?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">A. Mena</span>
               <span id="posicion-2">Mediocamp.</span>
             </div>
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/422d4d27-2116-480f-9651-80561352a2b2/1442551423?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Soler</span>
+              <img src="https://digitalhub.fifa.com/transform/59b0fcdc-5cbf-4e78-8221-a2a28e651702/1442153740?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">J. Sarmiento</span>
               <span id="posicion-2">Mediocamp.</span>
             </div>
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/103c93e3-a3d4-4022-9bde-1285f4677ba8/1442551614?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Pedri</span>
+              <img src="https://digitalhub.fifa.com/transform/ce5dbf75-83be-4165-b855-4d31b1e310b0/1442153965?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">G. Plata</span>
+              <span id="posicion-2">Mediocamp.</span>
+            </div>
+            <div class="jugador">
+              <img src="https://digitalhub.fifa.com/transform/de46491e-7d8a-4df4-8779-a7946b2f97c3/Jhegson-Mendez?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">J. Mendez</span>
+              <span id="posicion-2">Mediocamp.</span>
+            </div>
+            <div class="jugador">
+              <img src="https://digitalhub.fifa.com/transform/9df2306e-4148-44ff-9c26-4891e064015e/1442158410?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">A. Franco</span>
               <span id="posicion-2">Mediocamp.</span>
             </div>
           </div>
@@ -216,43 +231,23 @@
           <span id="posicion">Delanteros</span>
           <div class="delantero-individual">
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/a6d1d8b4-a559-4c7f-aed3-095126b60e1c/1442552095?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Morata</span>
+              <img src="https://digitalhub.fifa.com/transform/5bcc7446-5816-4603-9aa8-882fa357f6e3/1442154004?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">M. Estrada</span>
               <span id="posicion-2">Delantero</span>
             </div>
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/a28c5f8b-ef3b-4fb0-9cd3-a59c0c10c8f9/1442551256?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Asensio</span>
+              <img src="https://digitalhub.fifa.com/transform/e9817141-9985-4b8a-818e-3a06260d7a8c/1442153993?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">E. Valencia</span>
               <span id="posicion-2">Delantero</span>
             </div>
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/405abbab-5e5d-4277-905f-6bbdf618bad5/1442551768?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Torres</span>
+              <img src="https://digitalhub.fifa.com/transform/82842310-8c94-469d-9e9c-c83b0de4eec2/1442158458?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">D. Reasco</span>
               <span id="posicion-2">Delantero</span>
             </div>
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/0c54f295-1459-4e47-b2ce-d40500aedbf4/1442551969?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Williams</span>
-              <span id="posicion-2">Delantero</span>
-            </div>
-            <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/8cec67ff-34d6-48eb-84a2-438f6dbad67a/1442552155?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Pino</span>
-              <span id="posicion-2">Delantero</span>
-            </div>
-            <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/fe13d81b-073b-4657-a210-de2b48e2b449/1442551204?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Olmo</span>
-              <span id="posicion-2">Delantero</span>
-            </div>
-            <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/e93bb879-a521-4d0e-9201-1260c25895f0/1442551078?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Sarabia</span>
-              <span id="posicion-2">Delantero</span>
-            </div>
-            <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/c18616da-8431-4a85-b6ce-d706b85e8095/1442552066?io=transform:fill,width:792,height:900" alt="">
-              <span id="nombre-jugador">Ansu Fati</span>
+              <img src="https://digitalhub.fifa.com/transform/92e86609-09f6-41ff-ac88-78f31085d820/1442157538?io=transform:fill,width:792,height:900" alt="">
+              <span id="nombre-jugador">K. Rodríguez</span>
               <span id="posicion-2">Delantero</span>
             </div>
           </div>
@@ -261,9 +256,9 @@
           <span id="posicion">Entrenador</span>
           <div class="entrenador-individual">
             <div class="jugador">
-              <img src="https://digitalhub.fifa.com/transform/a6708aef-dfb7-40c2-9cd2-f02a1ec1bb0e/1442541442?io=transform:fill,width:264,height:300" alt="">
-              <span id="nombre-jugador">Luis Enrique</span>
-              <span id="posicion-2">Entrenador</span>
+                <img src="https://digitalhub.fifa.com/transform/466a18b8-68f4-46e6-a476-9756aa9142a2/1442153500?io=transform:fill,width:264,height:300" alt="">
+                <span id="nombre-jugador">G. Alfaro</span>
+                <span id="posicion-2">Entrenador</span>
             </div>
           </div>
         </div>
@@ -280,7 +275,7 @@
           </div>
           <div class="textito">
             <span id="subtitulo-logro">Participación en mundiales:</span>
-            <span id="contenido-logro">16</span>
+            <span id="contenido-logro">4</span>
           </div>
         </div>
         <div class="contenedor-mundial-resultado">
@@ -289,7 +284,7 @@
           </div>
           <div class="textito">
             <span id="subtitulo-logro">Resultado más alto en mundial:</span>
-            <span id="contenido-logro">Campeón (2010)</span>
+            <span id="contenido-logro">Octavos de final (2006)</span>
           </div>
         </div>
         <div class="contenedor-regional-participacion">
@@ -298,7 +293,7 @@
           </div>
           <div class="textito">
             <span id="subtitulo-logro">Participación en torneo regional:</span>
-            <span id="contenido-logro">1 (Liga de Naciones)</span>
+            <span id="contenido-logro">29</span>
           </div>
         </div>
         <div class="contenedor-regional-resultado">
@@ -307,7 +302,7 @@
           </div>
           <div class="textito">
             <span id="subtitulo-logro">Resultado más alto en torneo regional:</span>
-            <span id="contenido-logro">Subcampeón (2021)</span>
+            <span id="contenido-logro">Cuarto lugar (1959 y 1993)</span>
           </div>
         </div>
       </div>

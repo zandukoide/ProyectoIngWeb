@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <link href="CSS/HomeStyle.css" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="CSS/EquipoStyle.css" type="text/css">
+    <link rel="stylesheet" href="CSS/EquipoStyle.css" type="text/css"/>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Fifa World Cup 2022</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -42,7 +42,7 @@
             <img src="IMGs\banderaqatar.webp" alt="">
             <span>Qatar</span>
         </a>
-        <a href="PagEquipo.php">
+        <a href="PagEquipo2.php">
             <img src="IMGs\banderaecuador.jpg" alt="">
             <span>Ecuador</span>
         </a>

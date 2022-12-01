@@ -257,6 +257,7 @@ a{
     flex-direction: column;
     margin-top: 25px;
     margin-bottom: 20px;
+    width: 170px;
 }
 
 .entrenador-individual img{
@@ -271,7 +272,7 @@ a{
 }
 
 .jugador img{
-    width: 70px;
+    width: 85px;
     margin-bottom: 5px;
 }
 
